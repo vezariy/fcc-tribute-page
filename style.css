@@ -1,1 +1,53 @@
 
+html, body {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  background-color: #f5f5f5;
+}
+#main {
+  background-color: #EEEEEE;
+  border-radius: 8px;
+  display:block;
+  
+}
+#title {
+  text-align: center;
+  
+}
+
+#image {
+max-width: 650px;
+height: auto;
+  display: block;
+margin: auto;
+margin-left: auto;
+margin-right: auto;
+
+}
+#img-caption {
+  margin-left: auto;
+  margin-right: auto;
+ 
+}
+#img-div {
+background-color: white;
+text-align: center;
+display: block;
+margin-right: 10px;
+margin-left: 10px;
+border-radius: 8px;
+ border: 2px solid black;
+}
+#tribute-info {
+  text-align: center;
+}
+.list {
+  text-align: left;
+  max-width: 500px;
+  display: inline-block;
+  padding-bottom: 20px;
+  
+}
+
+
